@@ -5,8 +5,7 @@ This project provides a comprehensive, end-to-end pipeline for collecting, clean
 The goal is to transform raw, unstructured data from the web into actionable insights about player and team performance.
 
 
-
-🛠️ Technology Stack
+Technology Stack Used
 
 Data Acquisition (Web Scraping): javascript in both interaction code and parser code and used Bright data to collect data
 
@@ -18,7 +17,7 @@ Version Control: Git
 
 
 
-📈 Data Source
+Data Source 
 
 The data is sourced directly from a public cricket statistics website  ESPNcricinfo, Cricbuzz, and similar via web scraping.
 
